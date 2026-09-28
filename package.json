@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/joinline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Join and reshape line text streams with deterministic transforms.",
+  "bin": {
+    "joinline": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/joinline.git"
+  },
+  "homepage": "https://theworker02.github.io/joinline/",
+  "keywords": [
+    "join",
+    "line",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
